@@ -1,11 +1,11 @@
 # OBJECT ORIENTED PROGRAMMING CONCEPTS
-> ## Objectives
->
-> - Introduction to object oriented programming.
-> - Features of OOPS.
-> - Benefits of OOPS.
-> - Applications of OOPS.
-> ## Basic Concept
+## Objectives
+
+ - Introduction to object oriented programming.
+ - Features of OOPS.
+ - Benefits of OOPS.
+ - Applications of OOPS.
+## Basic Concept
 
    The limitations of C language are evident when a software project is too large to be
 handled. In some circumstances, errors occur at some place and some patch up programs is
